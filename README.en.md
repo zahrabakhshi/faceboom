@@ -8,3 +8,4 @@ For accounting, manpower, and management units, independent usernames are define
 
 ## Employee Supervision Solution
 For each employee of the organization, a personal username and password are defined that they can use to view their personal page in the Facebook presence and absence automation system. In this personal page, in addition to viewing your attendance reports (with various reporting capabilities), which are registered through the Facebook traffic control system at the entrance of the organization, it is possible to request leave registration or mission registration. If the management approves, this request will be entered into the information of the attendance system and can be seen and followed in the reports.
+
