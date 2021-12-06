@@ -1,7 +1,7 @@
 # faceboom
 Pure php web application design with MVC architecture
 ---
-######  Because this project belongs to faceboom company, it is not possible to share the codes and I will only introduce the implemented project.
+######  Because this project belongs to [boomisazan Intelligent processing qaem](https://boomi-sazan.ir/faceboom_beta2/) company, it is not possible to share the codes and I will only introduce the implemented project.
 
 Facebook software is designed to record the processes related to the attendance of employees of large organizations. In each organization, a local Windows data processing and storage unit is defined and the faces of the employees of this building are introduced to the system. Local data processing and storage units send their information online and through the internal network to the main server of the software. In the context of the internal network of the relevant organization, a network automation system (web application) is designed and installed, and using it, reporting and monitoring processes are defined as managerial and employee and in the context of the network.
 
