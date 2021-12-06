@@ -1,5 +1,5 @@
 # faceboom
-Pure php faceboom web application design with MVC architecture
+Pure php web application design with MVC architecture
 ---
 Facebook software is designed to record the processes related to the attendance of employees of large organizations. In each organization, a local Windows data processing and storage unit is defined and the faces of the employees of this building are introduced to the system. Local data processing and storage units send their information online and through the internal network to the main server of the software. In the context of the internal network of the relevant organization, a network automation system (web application) is designed and installed, and using it, reporting and monitoring processes are defined as managerial and employee and in the context of the network.
 
